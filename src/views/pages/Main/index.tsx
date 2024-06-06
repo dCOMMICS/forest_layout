@@ -15,7 +15,7 @@ const Main = () => {
         <div className="container">
           <nav className="header__navigation">
             <a href="#" className="header__logo">
-              <h1>Travel Journal</h1>
+              <h1>Sea Forest</h1>
             </a>
             <ul className="header__menu">
               {menu.map((item) => (
